@@ -2,15 +2,16 @@
 
 ## Types of Azure dev-ops services
 - Boards
-  Write your task, bug, stories (Agile or Kanban)
+  > Write your task, bug, stories (Agile or Kanban)
 
 - Repos
-  Repository TFS, Git
+  > Repository TFS, Git
 
 - Pipeline
-  Deploying code CI/code
+  > Deploying code CI/code
 
 - Test plans
+  > 
 
 - Artifacts
-  Packages required for the project
+  > Packages required for the project
